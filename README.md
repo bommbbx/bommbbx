@@ -60,4 +60,4 @@
   <img src="https://raw.githubusercontent.com/bommbbx/bommbbx/output/snake.svg" alt="Snake animation" />
 </p>
 
-<img src="assets/spassky%20vs%20fischer.gif" alt="Spassky vs Fischer Game" width="500" />
+<img src="assets/spassky vs fischer.gif" alt="Spassky vs Fischer Game" width="500" />
