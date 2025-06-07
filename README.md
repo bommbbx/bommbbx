@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm bommbbx </h1>
-<p>A frontend developer from Egypt 𓂀𓂀𓂀𓋹𓁈𓃠𓆃☥𓅓𓆣</p>
+<p>A Backend developer from Egypt 𓂀𓂀𓂀𓋹𓁈𓃠𓆃☥𓅓𓆣</p>
 
 ---
 
