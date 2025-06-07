@@ -61,3 +61,4 @@
 </p>
 
 ![Spassky vs Fischer](assets/spassky-vs-fischer.gif)
+<img src="spassky-vs-fischer.gif" width="500" alt="Spassky vs Fischer gif" />
