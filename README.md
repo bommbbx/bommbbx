@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm bommbbx </h1>
+<h1>Hi 👋, I'm 1Thef0x</h1>
 <p>A Backend developer from Egypt 𓂀𓂀𓂀𓋹𓁈𓃠𓆃☥𓅓𓆣</p>
 
 ---
@@ -40,16 +40,18 @@
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bommbbx&show_icons=true&locale=en" alt="bommbbx GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1Thef0x&show_icons=true&locale=en" alt="1Thef0x GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bommbbx" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1Thef0x" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bommbbx&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1Thef0x&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bommbbx" alt="Trophies" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=1Thef0x" alt="Trophies" />
+  </a>
 </p>
 
 ---
@@ -57,9 +59,10 @@
 <h2>🐍 GitHub Snake Animation</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bommbbx/bommbbx/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/1Thef0x/1Thef0x/output/snake.svg" alt="Snake animation" />
 </p>
 
+<!-- إذا لم تقم بعد بإعداد Snake animation workflow، اتبع الإرشادات من:
+     https://github.com/Platane/snk -->
+
 ![Spassky vs Fischer](spassky-vs-fischer.gif)
-
-
